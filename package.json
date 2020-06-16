@@ -1,0 +1,20 @@
+{
+  "name": "piano-javascript",
+  "version": "1.0.0",
+  "description": "Web application built with JavaScript.creating a simple piano which can be played using the mouse on web.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DIp15739/piano-javascript.git"
+  },
+  "author": "Dip Vachhani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DIp15739/piano-javascript/issues"
+  },
+  "homepage": "https://github.com/DIp15739/piano-javascript#readme"
+}
